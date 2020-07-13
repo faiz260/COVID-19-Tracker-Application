@@ -20,7 +20,7 @@ function App() {
   return (
     <div className={styles.App}>
       <Cards data={data} />
-      <Chart/>
+      {/* <Chart/> */}
     </div>
   );
 }
